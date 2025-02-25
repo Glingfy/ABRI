@@ -26,3 +26,7 @@ This script is designed to construct three types of machine learning models: Ran
 ## 3. Code: `shapML.py`
 
 This script performs SHAP (SHapley Additive exPlanations) analysis based on a trained XGBoost model to interpret the contributions of each feature to the model's predictions.
+
+## 4. Code: `ABRI.py`
+
+This script is used to calculate Algal Bloom Risk Index (ABRI) for raster images (.tif). 
